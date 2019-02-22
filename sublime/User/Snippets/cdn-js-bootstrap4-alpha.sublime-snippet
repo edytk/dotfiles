@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
+]]></content>
+  <description>CDN Bootstrap4.0.0-alpha</description>
+  <tabTrigger>cdn-bootstrap4</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<img src="http://dummyimage.com/${1:800x600}/${2:4d494d}/${3:686a82}.gif&text=${4:++}" alt="">
+]]></content>
+  <description>Image - dummyimage.com</description>
+	<tabTrigger>img-dummy</tabTrigger>
+</snippet>

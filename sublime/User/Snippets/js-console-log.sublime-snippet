@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+console.log(${1:var});
+]]></content>
+    <description>Javascript console.log</description>
+    <tabTrigger>clog</tabTrigger>
+</snippet>

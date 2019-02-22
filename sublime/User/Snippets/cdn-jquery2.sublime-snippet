@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+]]></content>
+  <description>CDN jQuery 2.2.4</description>
+  <tabTrigger>cdn-jquery2</tabTrigger>
+</snippet>

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "blocked",
+    "color": "5941a9"
+  },
+  {
+    "name": "complete",
+    "color": "17b890"
+  },
+  {
+    "name": "in progress",
+    "color": "e3655b"
+  },
+  {
+    "name": "on hold",
+    "color": "dddddd"
+  },
+  {
+    "name": "bug",
+    "color": "db5461"
+  },
+  {
+    "name": "improvement",
+    "color": "0052cc"
+  },
+  {
+    "name": "feature",
+    "color": "1a936f"
+  },
+  {
+    "name": "meta",
+    "color": "fafafa"
+  },
+  {
+    "name": "hacktoberfest",
+    "color": "dbdaea"
+  }
+]

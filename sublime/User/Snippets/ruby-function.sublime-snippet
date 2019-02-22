@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+def ${1:index}
+  ${0:}
+end
+]]></content>
+  <description>Ruby def</description>
+  <tabTrigger>def</tabTrigger>
+</snippet>

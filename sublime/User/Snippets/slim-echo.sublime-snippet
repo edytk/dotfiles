@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+= ${1:var}
+]]></content>
+    <description>Rails slim echo</description>
+    <tabTrigger>echo-slim</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+console.warn(${1:var});
+]]></content>
+    <description>Javascript console.warn</description>
+    <tabTrigger>cwarn</tabTrigger>
+</snippet>

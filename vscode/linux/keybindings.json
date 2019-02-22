@@ -1,0 +1,31 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  {
+    "key"     : "ctrl+shift+d",
+    "command" : "editor.action.copyLinesDownAction",
+    "when"    : "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key"     : "alt+down",
+    "command" : "editor.action.moveLinesDownAction",
+    "when"    : "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key"     : "alt+up",
+    "command" : "editor.action.moveLinesUpAction",
+    "when"    : "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key"     : "ctrl+alt+a",
+    "command" : "alignment.align",
+    "when"    : "editorHasSelection"
+  },
+  {
+    "key"     : "ctrl+r",
+    "command" : "workbench.action.openRecent"
+  },
+  {
+    "key": "ctrl+k ctrl+s",
+    "command": "workbench.action.files.saveAll"
+  }
+]

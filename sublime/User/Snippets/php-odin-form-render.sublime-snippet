@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+echo ${1:odin_form}()->render();
+]]></content>
+    <description>Odin form render</description>
+    <tabTrigger>form-render</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

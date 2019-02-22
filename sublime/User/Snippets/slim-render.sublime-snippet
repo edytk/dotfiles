@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+= render "${1:partials/header}"
+]]></content>
+    <description>Rails slim render</description>
+    <tabTrigger>render-slim</tabTrigger>
+</snippet>

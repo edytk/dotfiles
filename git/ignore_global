@@ -1,0 +1,45 @@
+# Operational system
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Compiled sources
+*.dll
+
+# Preprocessor
+.sass-cache
+
+# Visual Code Studio
+# .vscode
+
+tmp
+.tmp
+
+node_modules
+bower_components

@@ -1,0 +1,16 @@
+{
+  "Image placeholder": {
+    "prefix": "imgp",
+    "body": [
+      "img(src=\"//placehold.it/${1:350}x${2:150}\" alt=\"$3\")"
+    ],
+    "description": "img tag with placehold.it"
+  },
+  "image with lorempixel.com": {
+    "prefix": "imgl",
+    "body": [
+      "img(src=\"//lorempixel.com/${1:300}/${2:150}\" alt=\"$3\")"
+    ],
+    "description": "Add placeholder image with lorempixel.com"
+  }
+}
