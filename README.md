@@ -1,5 +1,7 @@
 # My dotfiles
 
+My Ubuntu / macOS dotfiles.
+
 ### Instalation
 
 ```bash
