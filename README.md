@@ -1,8 +1,8 @@
-# my ArchLinux + bspwm config
+# dotfiles
 
 ![](bspwm.png)
-
-## This set up uses:
+my ArchLinux + bspwm config
+### This set up uses:
 
 +  bspwm - to manage windows
 +  urxvt - terminal
