@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<img src="http://lorempixel.com/${1:300}/${2:150}" alt="">
-]]></content>
-  <description>Image - lorempixel.com</description>
-	<tabTrigger>img-pixel</tabTrigger>
-</snippet>

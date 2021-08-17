@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-pre
-  = debug ${1:@var}
-]]></content>
-    <description>Rails slim debug</description>
-    <tabTrigger>debug-slim</tabTrigger>
-</snippet>

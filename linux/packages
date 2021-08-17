@@ -1,7 +1,0 @@
-curl
-git
-vim
-imagemagick
-libmagickcore-dev
-libmagickwand-dev
-build-essential

@@ -1,11 +1,3 @@
-# My dotfiles
+# my ArchLinux + bspwm config
 
-My Ubuntu / macOS dotfiles.
-
-### Instalation
-
-```bash
-sh -c "`curl -fsSL https://raw.githubusercontent.com/edytk/dotfiles/master/clone.sh`"
-cd ~/.files
-./install.sh
-```
+![](bspwm.png)

@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-<%= render "${1:partials/header}" %>
-]]></content>
-  <description>Rails erb render</description>
-  <tabTrigger>render-erb</tabTrigger>
-</snippet>

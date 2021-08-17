@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-class ${1:Welcome}Controller < ${2:Application}Controller
-  ${0:}
-end
-]]></content>
-  <description>Ruby Rails class controller</description>
-  <tabTrigger>class-controller</tabTrigger>
-</snippet>
